@@ -62,7 +62,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'androidjit' //groupId 随便取
                 artifactId = 'fqzplugin'  //artifactId 随便取
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
